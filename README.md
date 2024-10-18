@@ -2,7 +2,9 @@
 
 ## How to deploy the Solution in Azure
 
-For more information visit this URL: https://learn.microsoft.com/en-us/training/modules/deploy-dotnet-aspire-app-azure/4-exercise-deploy-azure
+For more information visit this URL: 
+
+https://learn.microsoft.com/en-us/training/modules/deploy-dotnet-aspire-app-azure/4-exercise-deploy-azure
 
 Navigate to the Host project and open in a command prompt and run the command **azd init**
 
