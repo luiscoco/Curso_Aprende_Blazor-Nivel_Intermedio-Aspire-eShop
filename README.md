@@ -90,6 +90,17 @@ Now we navigate inside the deployment resource group **rg-eshop_deployment**
 
 We have to grant permission to the **weapp** for accepting the ingress traffic
 
+![image](https://github.com/user-attachments/assets/61fefff2-7cc6-4e36-906f-f398f324bec2)
+
+We select **Settings** and **Ingress** and select the option **Accept Traffic from Anywhere** and press the **Save** button
+
+![image](https://github.com/user-attachments/assets/b60f05a8-7412-4937-b20d-d02e69af77c6)
+
+![image](https://github.com/user-attachments/assets/1a549256-d98c-4ad3-9181-dec18f767d02)
+
+We finally verify the web applicattion is running properly
+
+
 
 
 
