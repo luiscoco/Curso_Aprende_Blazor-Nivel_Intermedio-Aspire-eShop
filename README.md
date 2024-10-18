@@ -71,6 +71,15 @@ We can restart the **catalog-db-mgr** if appears an issue pressing the three dot
 
 ![image](https://github.com/user-attachments/assets/baa21026-4279-4a93-851d-bf26df3fcb6c)
 
+Now we navigate inside the deployment resource group **rg-eshop_deployment**
+
+![image](https://github.com/user-attachments/assets/b06c3b6a-dc4a-4136-adcf-404e82497465)
+
+![image](https://github.com/user-attachments/assets/eb1015c5-3d77-4776-92aa-54a161b123e5)
+
+![image](https://github.com/user-attachments/assets/743d674f-1e73-43f6-9ad8-b8a86bda1c18)
+
+We have to grant permission to the **weapp** for accepting the ingress traffic
 
 
 
