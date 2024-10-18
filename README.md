@@ -19,9 +19,18 @@ Docker Desktop
 
 ## 4. Consuming API from the Blazor Web App
 
-## 5. 
+## 5. Adding Aspire Host project
 
-## How to deploy the Solution in Azure
+## 6. Adding the Aspire ServiceDefault project
+
+## 7. Adding the Orchestration Support in the projects
+
+## 8. Adding the Migration Manager project (Catalog.Data.Manager.csproj)
+
+
+
+
+## 9. How to deploy the Solution in Azure
 
 For more information visit this URL: 
 
