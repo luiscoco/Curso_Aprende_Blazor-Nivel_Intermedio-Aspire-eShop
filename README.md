@@ -100,7 +100,9 @@ We select **Settings** and **Ingress** and select the option **Accept Traffic fr
 
 We finally verify the web applicattion is running properly
 
+![image](https://github.com/user-attachments/assets/541def2a-34e8-414c-8f66-cfc81e21c07e)
 
+![image](https://github.com/user-attachments/assets/64bb1e64-a840-4138-aa71-8cbc1e6a12c5)
 
 
 
